@@ -688,5 +688,45 @@
         padding: 10px;
         left: 31%;
     }
+    .list{
+        display: none;
+    }
     
+}
+@media screen and (max-width:450px) {
+    .iage{
+        padding-left: 10%;
+        padding-right: 12%;
+    }
+    .iag p{
+        font-size: 9px;
+        left: 12%;
+    }
+    .iag h4{
+        font-size: 9px;
+        top: 13%;
+        border-radius: 5px;
+        padding: 10px;
+        left: 28%;
+    }
+    .iag h1{
+        font-size: 15px;
+        top:12%;
+        left:12%
+    }
+    .iag h3{
+        font-size: 9px;
+        top:59%;
+        left: 10%;
+    }
+    .iag button{
+        top:83%;
+        left: 12%;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        font-size: 9px;
+    }
+
 }
